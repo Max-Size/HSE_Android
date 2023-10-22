@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="pick_color">Please write down the color: red, green or blue!</string>
+    <string name="hint">color...</string>
+    <string name="picked_color">The picked color is:</string>
+    <string name="green">green</string>
+    <string name="launch_second_activity">Launch second activity</string>
+</resources>
